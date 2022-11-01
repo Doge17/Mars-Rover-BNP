@@ -47,7 +47,7 @@ Expected Output:
 ### COMMAND LINE:
 The program will be runned with this command line:
 
- 	java -jar rover-1.0.jar input.txt
+ 	java -jar rover.jar input.txt
 
 ### Notes:
 - This project was created with Java 8 and Maven 3.8.4
